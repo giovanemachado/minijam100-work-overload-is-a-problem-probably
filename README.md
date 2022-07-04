@@ -36,7 +36,7 @@ Drag with your mouse the tasks on the left board to your 9 workers.
 
 
 <h2 id="#game-development"> Game development</h2>
-This was a 48h project for Game Jam Magalu! - 2022 (https://itch.io/jam/magalu), so most of the code does not has good refactoring or tests.
+This was a 48h project for Mini Jam 100 https://itch.io/jam/mini-jam-100-overload), so most of the code does not has good refactoring or tests.
 
 
 <h2 id="#credits"> Credits</h2>
